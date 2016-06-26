@@ -1,0 +1,5 @@
+*.pyc
+dist/
+mkdocs_boundless.egg-info/
+site/
+.DS_Store
